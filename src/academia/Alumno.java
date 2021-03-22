@@ -2,7 +2,11 @@ package academia;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * Clase que describe un alumno
+ * @author manuf
+ *
+ */
 public class Alumno implements Comparable<Alumno> {
 
 	private String nombre, dni;
